@@ -1,4 +1,5 @@
-#!/usr/local/bin/ruby -w
+#! /usr/bin/env ruby -w
+# -*- coding: utf-8 -*-
 
 # = faster_csv.rb -- Faster CSV Reading and Writing
 #
