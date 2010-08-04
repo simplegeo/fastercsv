@@ -5,3 +5,6 @@ include /usr/share/ruby-pkg-tools/1/class/ruby-setup-rb.mk
 
 
 # Add here any variable or target overrides you need.
+
+build/libfastercsv-ruby1.8::
+	rake test
