@@ -1,0 +1,41 @@
+This work was packaged for Debian by:
+
+    Ian Eure <ian@simplegeo.com> on Wed, 04 Aug 2010 09:38:26 -0700
+
+It was downloaded from:
+
+    http://rubyforge.org/projects/fastercsv
+
+Upstream Author(s):
+
+    James Edward Gray II <james@grayproductions.net>
+
+Copyright:
+
+    James Edward Gray II <james@grayproductions.net>
+
+License:
+
+   This package is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License version 2 as
+   published by the Free Software Foundation.
+
+    This package is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this package; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+On Debian systems, the complete text of the GNU General Public License
+version 2 can be found in `/usr/share/common-licenses/GPL-2'.
+
+The Debian packaging is:
+
+    Copyright (C) 2010 Ian Eure <ian@simplegeo.com>
+
+you can redistribute it and/or modify it under the terms of the BSD
+License.
+

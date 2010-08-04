@@ -1,0 +1,16 @@
+Source: fastercsv
+Section: ruby
+Priority: extra
+Maintainer: Ian Eure <ian@simplegeo.com>
+Build-Depends: cdbs, debhelper (>= 7), libsetup-ruby1.8, ruby-pkg-tools
+Standards-Version: 3.8.4
+Homepage: http://rubyforge.org/projects/fastercsv
+
+Package: libfastercsv-ruby1.8
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A complete replacement for the standard Ruby CSV library
+ FasterCSV is intended as a complete replacement to the CSV standard
+ library. It is significantly faster and smaller while still being
+ pure Ruby code. It also strives for a better interface.
+
