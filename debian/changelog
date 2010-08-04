@@ -1,3 +1,13 @@
+fastercsv (1.5.1-1sg3) lucid; urgency=low
+
+  [ Ian Eure ]
+  * Fix interpreter path.
+  * Run tests in build.
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Wed, 04 Aug 2010 16:57:06 +0000
+
 fastercsv (1.5.1-1sg0) unstable; urgency=low
 
   * SimpleGeoized.
